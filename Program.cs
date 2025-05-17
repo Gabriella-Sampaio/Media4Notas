@@ -60,3 +60,4 @@ bool ValidaNota (double nota)
     //false quando houver alguma nota < 0 ou nota > 10
 }
 
+//continuar pra treinar - https://github.com/diegoneri/Media4NotasSubRotinas/tree/main
